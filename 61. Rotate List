@@ -16,7 +16,6 @@ class Solution:
         if(k==count):
             return head
         onePointer=head
-    
         temp1=None
         TwoPointer=None
         temp2=None
