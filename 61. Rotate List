@@ -16,8 +16,9 @@ class Solution:
         if(k==count):
             return head
         onePointer=head
-        TwoPointer=None
+    
         temp1=None
+        TwoPointer=None
         temp2=None
         counter=0
         print(k)
