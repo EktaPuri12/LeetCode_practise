@@ -15,10 +15,9 @@ class Solution:
         k=count-k%count
         if(k==count):
             return head
-        TwoPointer=None
         onePointer=head
-        
         temp1=None
+        TwoPointer=None
         temp2=None
         counter=0
         print(k)
